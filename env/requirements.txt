@@ -1,0 +1,15 @@
+#python: 3.10.12
+#mxnet==1.9.1 #requires cuda setup
+
+numpy==1.26.4
+pandas==2.2.0
+seaborn==0.13.2
+scikit-learn==1.4.0
+SQLAlchemy==1.3.24
+xgboost==2.0.0
+autogluon==1.1.1
+vowpalwabbit==9.9.0
+ipykernel==6.29.5
+
+
+

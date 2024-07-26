@@ -1,0 +1,13 @@
+#Directories
+AutogluonModels/
+venv/
+.ipynb_checkpoints/
+__pycache__/
+
+
+#Files
+train.cache.writing
+*.log
+.DS_Store 
+NOTE.txt
+
